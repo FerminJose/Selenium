@@ -1,6 +1,6 @@
 # Selenium
 
-To execute the jar, you need Java 1.8.191 version installed.
+To execute the jar, you need Java 1.8.191 and Google Chrome Version 71.0.3578.98 (Official build) (64 bits) installed.
 
 To execute the java application, download the Exercise2.jar and chromedriver.exe file in the same location. Then, use the CMD, go to that location and execute: java -jar Exercise2.jar
 
