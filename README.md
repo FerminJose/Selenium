@@ -8,4 +8,8 @@ The ComputerModelTest.java is the code that implement the test to execute, that 
 
 The Executor.java is the class to create the executionable JAR and execute the test case.
 
+The structure of the code is:
+src -> selenium -> Executor.java
+test -> selenium -> ComputerModelTest.java
+
 If there is any problem with the chromedriver, just install the latest version of Google Chrome and the latest version of the chromedriver.exe in http://chromedriver.chromium.org/downloads
