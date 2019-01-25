@@ -14,4 +14,6 @@ src -> selenium -> Executor.java
 
 test -> selenium -> ComputerModelTest.java
 
+Compiled using JUnit5 libraries, and added the libraries of selenium for Java version 3.141.59 in https://www.seleniumhq.org/download/
+
 If there is any problem with the chromedriver, just install the latest version of Google Chrome and the latest version of the chromedriver.exe in http://chromedriver.chromium.org/downloads
